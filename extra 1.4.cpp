@@ -23,6 +23,7 @@ int main(){
 		}
 		cout<<"answer is :"<<n;
 		n++;
+		return 0;
 		
 		}
 	
